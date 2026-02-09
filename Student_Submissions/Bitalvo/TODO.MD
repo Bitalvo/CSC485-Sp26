@@ -12,5 +12,15 @@
 - Remove any NA Values
 - Solve problem regarding Yahoo Finance paywall (quantmod)
 
-#...Next steps
-- ...
+# 2/9/26
+- I was able to append all of my data together into a clean master df
+- Got around the yahoo finance paywall using quantmod
+- To fix date formatting I annualized most datasets to fit together... this will help with future regressions
+- I have one colums of NA values Im working to understand at the moment
+- Goal : Finish the word doc describing each variable and HOW IT IS CALCULATED 
+- Goal : Polished... Finished datafile ready to begin runnign models
+- Goal : soem Exploratory Data Analyais (couple visualizations that are relevant)
+
+
+
+
