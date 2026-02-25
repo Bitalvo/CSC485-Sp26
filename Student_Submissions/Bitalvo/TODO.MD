@@ -20,6 +20,17 @@
 - Goal : Finish the word doc describing each variable and HOW IT IS CALCULATED 
 - Goal : Polished... Finished datafile ready to begin runnign models
 - Goal : soem Exploratory Data Analyais (couple visualizations that are relevant)
+- time series charts for varuables
+- correlation metrixes between variables to see whats correlated 
+
+# 2/24/2026
+- I had to get eye surgery last week which set me back a little more than I anticipated but progress is being made
+- I abandoned the Word doc explaining each variable and instead made a simple, clean chart to explain each variable
+- I was able to create the polished, finished data file to begin running models (and added YoY change data, which I didn’t have before)
+- Ran first linear model — still working on interpreting the output
+- Goal : Run the first round of modleing and interprate results (macro enviornment model)
+- Goal : Develop a plan for what to run after the macro environment model is created and map out retirement scenarios
+- Goal : Develop a plan for what to run after the macro environment model is created and map out retirement scenarios
 
 
 
